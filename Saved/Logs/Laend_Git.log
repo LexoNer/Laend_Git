@@ -800,3 +800,17 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.06.20-00.16.17:379][415]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
 [2022.06.20-00.18.29:394][800]LogDerivedDataCache: C:/Users/Adrian.DESKTOP-R9AAQ4R/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.021 and deleted 0 file(s) with total size 0 MiB.
 [2022.06.20-00.28.30:673][234]LogSlate: Window 'Inicio de sesión del control del código fuente' being destroyed
+[2022.06.20-00.31.05:958][695]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'No pudo encontrar el pincel 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2022.06.20-00.31.05:959][695]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'No pudo encontrar el pincel 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2022.06.20-00.31.14:941][223]LogContentBrowser: Deferred new asset folder creation: Carpeta nueva
+[2022.06.20-00.31.14:957][223]LogContentBrowser: Creating deferred item: Carpeta nueva
+[2022.06.20-00.31.14:999][224]LogContentBrowser: Renaming the item being created (Deferred Item: Carpeta nueva).
+[2022.06.20-00.31.20:309][630]LogContentBrowser: Attempting asset rename: Carpeta nueva -> Animaciones
+[2022.06.20-00.31.20:309][630]LogContentBrowser: End creating deferred item Carpeta nueva
+[2022.06.20-00.33.59:423][189]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.06.20-00.34.01:580][340]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.06.20-00.34.01:754][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.06.20-00.34.04:174][516]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.06.20-00.34.04:341][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.06.20-00.34.04:508][540]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.06.20-00.34.04:669][551]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
